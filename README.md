@@ -38,7 +38,7 @@ Customer Table
 | 2           | Duchess  |
 | 3           | Lexi     |
 
-Order Table
+Order Entry Table
 
 | Order Entry Id | Customer Id   | Order Number | Order Total | Product   | Product Unit Price | Quantity Ordered |
 |----------------|---------------|--------------|-------------|-----------|--------------------|------------------|
